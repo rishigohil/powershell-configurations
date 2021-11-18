@@ -3,6 +3,8 @@ This repository contains my PowerShell custom configurations/themes and profile 
 
 This was inspired from the great [Scott Hanselman](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal)
 
+![Screenshot](assets/pwsh-screen-grab.png)
+
 ## HOW TO USE
 
 Fire up PowerShell!
