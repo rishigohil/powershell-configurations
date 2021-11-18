@@ -1,9 +1,7 @@
 # Powershell Configurations
 This repository contains my PowerShell custom configurations/themes and profile settings for future references. 
 
-This was inspired from the great <a href="https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal" target="_blank">Scott Hanselman</a>
-
-
+This was inspired from the great [Scott Hanselman](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal)
 
 ## HOW TO USE
 
@@ -16,7 +14,7 @@ git clone https://github.com/rishigohil/powershell-configurations.git
 ```
 
 
-Get <a href="https://ohmyposh.dev/" target="_blank">OH MY POSH</a> for this customization (They have got impressive themes!)
+Get [OH MY POSH](https://ohmyposh.dev/) for this customization (They have got impressive themes!)
 ```
 winget install JanDeDobbeleer.OhMyPosh
 # restart shell to reload PATH
