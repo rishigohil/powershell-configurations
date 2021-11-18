@@ -22,7 +22,9 @@ winget install JanDeDobbeleer.OhMyPosh
 # restart shell to reload PATH
 ```
 
-Get the profile from this repo and place it in a secured folder and edit your PowerShell PROFILE and add following line in it.
+
+Get the OH MY POSH config from this repo and place it in a secured folder. 
+Get the powershell profile from this repo and merge it with your profile and add following line in it.
 
 ```
 oh-my-posh --init --shell pwsh --config C:/personal/utils/pwsh/ohmyposhv3-2.json | Invoke-Expression
