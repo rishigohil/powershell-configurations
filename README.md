@@ -1,5 +1,5 @@
 # Powershell Configurations
-This repository contains my PowerShell custom configurations/themes and profile settings for future references. 
+This repository contains PowerShell custom configurations/themes and profile settings for future references. 
 
 This was inspired from the great [Scott Hanselman](https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal)
 
